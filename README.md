@@ -1,6 +1,6 @@
 # Chef-App
 
-## User Stories 
+## User Story
 
 - As user I can choose a menu
 - As user I can submit booking details (dates , address , number of guests , etc)
@@ -15,6 +15,10 @@
 - As user I can pay online or in person.
 - As user I get special offers and discounts.
 - As user I can submit feedback 
+
+## flow chart
+![alt text](./img/flow%20chart.PNG)
+
 
 
 
